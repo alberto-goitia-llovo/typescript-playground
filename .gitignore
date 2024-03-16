@@ -1,0 +1,19 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore TypeScript source map files
+*.map
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore build output directory
+dist/
